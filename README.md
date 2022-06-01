@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NielsLouwes
-- 👀 I’m working at AND Digital and am interested in full stack development
+- 👀 I’m working at AND Digital and am interested in front end development
 - 🌱 My stack is React/Node.js/Typescript/AWS
 - 💞️ I’m looking to collaborate on cool front end projects
 - 📫 You can reach out to me @ nielslouwes45@gmail.com
