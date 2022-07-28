@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NielsLouwes
-- 👀 I’m working at AND Digital and am interested in front end development
-- 🌱 My stack is Javascript/Typescript/React/Next.js
+- 👀 I’m a front end developer, working at AND Digital
+- 🌱 My stack is Javascript/Typescript/React/Next.js/GraphQl
 - 💞️ I’m looking to collaborate on cool front end projects
 - 📫 You can reach out to me @ nielslouwes45@gmail.com
 
