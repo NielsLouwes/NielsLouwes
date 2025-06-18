@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NielsLouwes
-- 👀 I’m a front end developer, working at Reclamefolder.nl (DPG Media)
-- 🌱 My stack is Javascript/Typescript/React/Next.js/GraphQL
-- 💞️ I’m looking to collaborate on cool front end projects
+- 👀 I’m a front-end developer, working at Reclamefolder.nl (DPG Media)
+- 🌱 My stack is Typescript/Nuxt/Next.js/GraphQL
+- 💞️ I’m looking to collaborate on cool front-end projects
 - 📫 You can reach out to me @ nielslouwes45@gmail.com
 
 <!---
